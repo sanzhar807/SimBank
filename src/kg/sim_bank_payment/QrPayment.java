@@ -5,4 +5,3 @@ public class QrPayment {
         System.out.println("QR Payment");
     }
 }
-//   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
